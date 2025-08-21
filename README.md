@@ -28,6 +28,6 @@ A machine learning project that detects whether a given message is **🚨 Spam**
 
 --Souptik Roy
 
-[🌐 Portfolio](https://souptik-roy-portfolio.netlify.app/)
+🌐 [Portfolio](https://souptik-roy-portfolio.netlify.app/)
 
 
