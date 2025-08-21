@@ -1,58 +1,30 @@
-# 📧 Spam Email/SMS Detection Project
+# 📧 Intelligent Spam Detector  
 
-## 📌 Overview
+A machine learning project that detects whether a given message is **🚨 Spam** or **✅ Not Spam**, with a beautiful **Streamlit web app** interface.  
 
-This project is a Spam Email/SMS Classifier built using Python, Scikit-Learn, and Naive Bayes.
-It classifies text messages as either Spam (1) or Not Spam (0) with high accuracy (~98%).
+---
 
-The dataset contains 5572 labeled messages (ham or spam) and is commonly used for text classification tasks.
+## ✨ Features
+- Trains a **Naive Bayes classifier** using SMS spam dataset.  
+- Uses **CountVectorizer** for feature extraction.  
+- Achieves **98% accuracy** on test data.  
+- Interactive **Streamlit app** to check messages in real time.  
+- Clean UI with emojis, warnings, and results display.  
 
-## 🚀 Features
+---
 
-Preprocess dataset and label messages as spam (1) or ham (0).
+## 🧑‍💻 Tech Stack
+- Python  
+- Pandas, Scikit-learn  
+- Streamlit  
+- Pickle (for saving model & pipeline)  
 
-Convert text into numerical features using CountVectorizer (Bag of Words).
+---
 
-Train a Naive Bayes classifier (MultinomialNB).
-
-Achieves 98.65% accuracy on the test dataset.
-
-Allows custom email/message predictions.
-
-Model can be saved and loaded for deployment.
-
-## 📂 Dataset
-
-File: spam.csv
-
-Total records: 5572
-
-Columns:
-
-Category: ham or spam
-
-Message: text content of the email/SMS
-
-During preprocessing:
-
-Category → Converted to spam (1 for spam, 0 for ham).
-
-Final dataset contains:
-
-Message (text)
-
-spam (label)
-
-## ⚙️ Technologies Used
-
-Python 🐍
-
-Pandas (Data handling)
-
-Scikit-learn (ML models & preprocessing)
-
-CountVectorizer (Text to features)
-
-Naive Bayes (Classification)
-
-Pickle (Model saving)
+## 📂 Project Structure
+📦 spam-detector
+┣ 📜 spam.csv # Dataset
+┣ 📜 train_model.py # Model training script
+┣ 📜 spam-checker-pipeline.pkl # Saved ML pipeline
+┣ 📜 app.py # Streamlit app
+┣ 📜 README.md # Project documentation
