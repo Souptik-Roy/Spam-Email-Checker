@@ -26,8 +26,8 @@ A machine learning project that detects whether a given message is **🚨 Spam**
 
 👨‍💻 Author
 
-Souptik Roy
+--Souptik Roy
 
-[🌐 Portfolio] (https://souptik-roy-portfolio.netlify.app/)
+[🌐 Portfolio](https://souptik-roy-portfolio.netlify.app/)
 
 
