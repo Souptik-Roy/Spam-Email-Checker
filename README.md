@@ -20,11 +20,14 @@ A machine learning project that detects whether a given message is **🚨 Spam**
 - Pickle (for saving model & pipeline)  
 
 ---
+## 🚀 Demo
+[![Streamlit App](https://img.shields.io/badge/Live%20Demo-Streamlit-brightgreen?logo=streamlit)](https://souptik-roy-spam-detector.streamlit.app/)
 
-## 📂 Project Structure
-📦 spam-detector
-┣ 📜 spam.csv # Dataset
-┣ 📜 train_model.py # Model training script
-┣ 📜 spam-checker-pipeline.pkl # Saved ML pipeline
-┣ 📜 app.py # Streamlit app
-┣ 📜 README.md # Project documentation
+
+👨‍💻 Author
+
+Souptik Roy
+
+[🌐 Portfolio] (https://souptik-roy-portfolio.netlify.app/)
+
+
