@@ -24,6 +24,6 @@ A machine learning project that detects whether a given message is **🚨 Spam**
 [![Streamlit App](https://img.shields.io/badge/Live%20Demo-Streamlit-brightgreen?logo=streamlit)](https://souptik-roy-spam-detector.streamlit.app/)
 
 
-🌐 [Portfolio](https://souptik-roy-portfolio.netlify.app/)
+## 🌐 [Portfolio](https://souptik-roy-portfolio.netlify.app/)
 
 
