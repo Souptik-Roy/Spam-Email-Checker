@@ -41,8 +41,9 @@ col1, col2, col3 = st.columns([1,2,1])
 with col2:
     c1, c2 = st.columns(2)
     with c1:
-        st.link_button("🌐 GitHub", "https://github.com/Souptik-Roy")
+        st.link_button("🌐 GitHub", "https://github.com/Souptik-Roy/Spam-Email-Checker.git")
     with c2:
         st.link_button("💻 Portfolio", "https://souptik-roy-portfolio.netlify.app/")
+
 
 st.caption("Made with ❤️ by **Souptik Roy** ")
