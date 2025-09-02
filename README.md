@@ -14,7 +14,7 @@ A machine learning project that detects whether a given message is **🚨 Spam**
 
 ## 🧑‍💻 Tech Stack
 - Python  
-- Pandas, Scikit-learn  
+- Machine Learning(Pandas, Scikit-learn ) 
 - HTML, CSS, Javascript
 - Pickle (for saving model & pipeline)
 - Flask(Python)
