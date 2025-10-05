@@ -24,16 +24,16 @@ A machine learning project that detects whether a given message is **🚨 Spam**
 ### ⚠️ Phishing Link Safety Checker
 Detect and warn users about suspicious or unsafe URLs in messages.
 
-🗣️ Voice Input and Readout
+### 🗣️ Voice Input and Readout
 Add speech recognition and text-to-speech to help users interact hands-free.
 
-🧠 Explainable AI (SHAP/LIME)
+### 🧠 Explainable AI (SHAP/LIME)
 Highlight important words that influenced the spam prediction to improve user awareness.
 
-📊 Spam Awareness Dashboard
+### 📊 Spam Awareness Dashboard
 Display insights like top spam keywords and spam vs. ham statistics to educate users.
 
-📧 Email/SMS Integration
+### 📧 Email/SMS Integration
 Automatically analyze incoming emails or text messages to identify potential scams.
 
 ## [🚀Demo](https://spam-classifier-souptik.netlify.app/)
