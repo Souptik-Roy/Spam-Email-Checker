@@ -34,7 +34,12 @@ Highlight important words that influenced the spam prediction to improve user aw
 Display insights like top spam keywords and spam vs. ham statistics to educate users.
 
 ### 📧 Email/SMS Integration
-Automatically analyze incoming emails or text messages to identify potential scams.
+Automatically analyze incoming emails or text messages to identify potential scams. 
+
+### WhatsApp/Telegram Bot: Users can forward messages to the bot for real-time spam detection.
+
+### Extension Idea: Could be extended as a browser or messaging extension for automatic scanning.
+
 
 ## [🚀Demo](https://spam-classifier-souptik.netlify.app/)
 
