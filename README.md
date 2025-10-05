@@ -19,9 +19,9 @@ A machine learning project that detects whether a given message is **🚨 Spam**
 - Pickle (for saving model & pipeline)
 - Flask(Python)
 
-##🔮 Future Scope
+## 🔮 Future Scope
 
-⚠️ Phishing Link Safety Checker
+### ⚠️ Phishing Link Safety Checker
 Detect and warn users about suspicious or unsafe URLs in messages.
 
 🗣️ Voice Input and Readout
