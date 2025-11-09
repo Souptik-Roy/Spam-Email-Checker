@@ -2,7 +2,7 @@
 
 A machine learning project that detects whether a given message is **🚨 Spam** or **✅ Not Spam**, with a beautiful **Streamlit web app** interface.  
 
---- 
+---  
 
 ## ✨ Features
 - Trains a **Naive Bayes classifier** using SMS spam dataset.   
