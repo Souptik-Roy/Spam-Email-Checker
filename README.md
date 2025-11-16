@@ -3,7 +3,9 @@
 A machine learning project that detects whether a given message is **🚨 Spam** or **✅ Not Spam**, with a beautiful **Streamlit web app** interface.  
 
 ---  
-## 🚀Live Model :[Click Here ](https://spam-classifier-souptik.netlify.app/)
+## 🚀Live Model : [Click Here](https://spam-classifier-souptik.netlify.app/)
+
+## 🌐 Check My Portfolio:[Click](https://souptik-roy-portfolio.netlify.app/)
 
 
 ## ✨ Features
@@ -43,6 +45,5 @@ Automatically analyze incoming emails or text messages to identify potential sca
 ### Extension Idea: Could be extended as a browser or messaging extension for automatic scanning.
 
 
-## 🌐 [Portfolio](https://souptik-roy-portfolio.netlify.app/)
 
 
