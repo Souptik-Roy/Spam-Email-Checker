@@ -10,7 +10,8 @@ A machine learning project that detects whether a given message is **🚨 Spam**
 
 ## ✨ Features
 - Trains a **Naive Bayes classifier** using SMS spam dataset.   
-- Uses **CountVectorizer** for feature extraction.  
+- Uses **CountVectorizer** for feature extraction.
+- **Lightweight & Fast** — prediction takes less than a second.
 - Achieves **98% accuracy** on test data.  
 - Interactive **Frontend** to check messages in real time.  
 
@@ -24,6 +25,8 @@ A machine learning project that detects whether a given message is **🚨 Spam**
 - Flask(Python)
 
 ## 🔮 Future Scope
+
+### Spam Keyword Highlighting
 
 ### ⚠️ Phishing Link Safety Checker
 Detect and warn users about suspicious or unsafe URLs in messages.
