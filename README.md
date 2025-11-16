@@ -3,6 +3,8 @@
 A machine learning project that detects whether a given message is **🚨 Spam** or **✅ Not Spam**, with a beautiful **Streamlit web app** interface.  
 
 ---  
+## 🚀Live Model :[Click Here ](https://spam-classifier-souptik.netlify.app/)
+
 
 ## ✨ Features
 - Trains a **Naive Bayes classifier** using SMS spam dataset.   
@@ -39,9 +41,6 @@ Automatically analyze incoming emails or text messages to identify potential sca
 ### WhatsApp/Telegram Bot: Users can forward messages to the bot for real-time spam detection.
 
 ### Extension Idea: Could be extended as a browser or messaging extension for automatic scanning.
-
-
-## [🚀Demo](https://spam-classifier-souptik.netlify.app/)
 
 
 ## 🌐 [Portfolio](https://souptik-roy-portfolio.netlify.app/)
