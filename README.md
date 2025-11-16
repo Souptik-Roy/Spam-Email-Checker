@@ -5,7 +5,7 @@ A machine learning project that detects whether a given message is **🚨 Spam**
 ---  
 ## 🚀Live Model : [Click Here](https://spam-classifier-souptik.netlify.app/)
 
-## 🌐 Check My Portfolio:[Click](https://souptik-roy-portfolio.netlify.app/)
+## 🌐 Check My Portfolio: [Click Here ](https://souptik-roy-portfolio.netlify.app/)
 
 
 ## ✨ Features
