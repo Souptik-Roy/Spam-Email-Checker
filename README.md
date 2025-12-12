@@ -30,6 +30,33 @@ A machine learning project that detects whether a given message is **🚨 Spam**
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 </p>
 
+## 🔍 UI Preview
+
+<p align="center">
+  <img src="images/ss1.png" width="45%" />
+  <img src="images/ss2.png" width="45%" />
+</p>
+
+<p align="center">
+  <img src="images/ss3.png" width="45%" />
+  <img src="images/ss4.png" width="45%" />
+</p>
+## 🖼️ Application Screenshots
+
+### Home Page
+<p align="center">
+  <img src="images/homepage.png" alt="Home Page" width="80%">
+</p>
+
+### Prediction Screen
+<p align="center">
+  <img src="images/prediction.png" alt="Prediction Page" width="80%">
+</p>
+
+### Output Example
+<p align="center">
+  <img src="images/output.png" alt="Spam Prediction Output" width="80%">
+</p>
 
 ## 🔮 Future Scope
 
