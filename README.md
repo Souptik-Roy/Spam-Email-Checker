@@ -3,7 +3,7 @@
 <p align="center">
   <img src="images/Spam Detection in Email using Machine Learning.png" alt="Home Page" >
 </p>
-A machine learning project that detects whether a given message is **🚨 Spam** or **✅ Not Spam**, with a beautiful **Streamlit web app** interface.  
+A machine learning project that detects whether a given message is **🚨 Spam** or **✅ Not Spam**, with a clean and user-friendly interface.
 
 ---  
 ## 🚀Live Model : [Click Here](https://spam-classifier-souptik.netlify.app/)
