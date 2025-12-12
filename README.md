@@ -1,5 +1,8 @@
 # 📧 Spam-Email-Checker
-<img src="
+### Home Page
+<p align="center">
+  <img src="images/Spam Detection in Email using Machine Learning.png" alt="Home Page" >
+</p>
 A machine learning project that detects whether a given message is **🚨 Spam** or **✅ Not Spam**, with a beautiful **Streamlit web app** interface.  
 
 ---  
@@ -43,10 +46,7 @@ A machine learning project that detects whether a given message is **🚨 Spam**
 </p>
 ## 🖼️ Application Screenshots
 
-### Home Page
-<p align="center">
-  <img src="images/Spam Detection in Email using Machine Learning.png" alt="Home Page" width="80%">
-</p>
+
 
 ### Prediction Screen
 <p align="center">
