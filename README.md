@@ -45,7 +45,7 @@ A machine learning project that detects whether a given message is **🚨 Spam**
 
 ### Home Page
 <p align="center">
-  <img src="Spam Detection in Email using Machine Learning.png" alt="Home Page" width="80%">
+  <img src="images/Spam Detection in Email using Machine Learning.png" alt="Home Page" width="80%">
 </p>
 
 ### Prediction Screen
