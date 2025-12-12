@@ -53,7 +53,6 @@ A machine learning project that classifies messages as **🚨 Spam** or **✅ HA
 
 ---
 
-## 📤 Prediction Outputs  
 
 ### 🚨 Spam Result  
 <p align="center">
