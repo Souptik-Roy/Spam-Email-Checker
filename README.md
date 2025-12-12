@@ -1,6 +1,5 @@
 # 📧 Spam Email Checker
 
-## 🏠 Home Page
 <p align="center">
   <img src="images/Spam Detection in Email using Machine Learning.png" alt="Home Page">
 </p>
@@ -40,16 +39,6 @@ A machine learning project that classifies messages as **🚨 Spam** or **✅ HA
 
 ---
 
-## 🎨 UI Preview
-<p align="center">
-  <img src="images/ss1.png" width="45%" />
-  <img src="images/ss2.png" width="45%" />
-</p>
-
-<p align="center">
-  <img src="images/ss3.png" width="45%" />
-  <img src="images/ss4.png" width="45%" />
-</p>
 
 ---
 
