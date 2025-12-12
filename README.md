@@ -18,7 +18,8 @@ A machine learning project that classifies messages as **🚨 Spam** or **✅ HA
 
 ## ✨ Features  
 - Trains a **Naive Bayes Classifier** using an SMS spam dataset  
-- Uses **CountVectorizer** for text feature extraction  
+- Uses **CountVectorizer** for text feature extraction
+-  Use 5300 sample data from **Kaggle**  
 - **98% accuracy** on test data  
 - Real-time prediction through a clean UI  
 - Lightweight model — predictions under **1 second**  
