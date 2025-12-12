@@ -48,12 +48,12 @@ A machine learning project that detects whether a given message is 🚨  Spam or
 
 ### Output 1
 <p align="center">
-  <img src="1762315909357spam.jpg" alt="Spam Prediction Output" width="80%">
+  <img src="images/1762315909357spam.jpg" alt="Spam Prediction Output" width="80%">
 </p>
 
 ### Output 1
 <p align="center">
-  <img src="ham.jpg" alt="Spam Prediction Output" width="80%">
+  <img src="images/ham.jpg" alt="Spam Prediction Output" width="80%">
 </p>
 
 ## 🔮 Future Scope
