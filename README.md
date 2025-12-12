@@ -1,28 +1,33 @@
-# 📧 Spam-Email-Checker
-### Home Page
+# 📧 Spam Email Checker
+
+## 🏠 Home Page
 <p align="center">
-  <img src="images/Spam Detection in Email using Machine Learning.png" alt="Home Page" >
+  <img src="images/Spam Detection in Email using Machine Learning.png" alt="Home Page">
 </p>
-A machine learning project that detects whether a given message is 🚨  Spam or ✅  HAM, with a clean and user-friendly interface.
 
----  
-## 🚀Live Model : [Click Here](https://spam-classifier-souptik.netlify.app/)
+A machine learning project that classifies messages as **🚨 Spam** or **✅ HAM**, featuring a clean, fast, and user-friendly interface.
 
-## 🌐 Check My Portfolio: [Click Here ](https://souptik-roy-portfolio.netlify.app/)
+---
 
+## 🚀 Live Model  
+👉 **[Click Here to Try the App](https://spam-classifier-souptik.netlify.app/)**  
 
-## ✨ Features
-- Trains a **Naive Bayes classifier** using SMS spam dataset.   
-- Uses **CountVectorizer** for feature extraction.
-- **Lightweight & Fast** — prediction takes less than a second.
-- Achieves **98% accuracy** on test data.  
-- Interactive **Frontend** to check messages in real time.  
+## 🌐 Portfolio  
+👉 **[View My Portfolio](https://souptik-roy-portfolio.netlify.app/)**
+
+---
+
+## ✨ Features  
+- Trains a **Naive Bayes Classifier** using an SMS spam dataset  
+- Uses **CountVectorizer** for text feature extraction  
+- **98% accuracy** on test data  
+- Real-time prediction through a clean UI  
+- Lightweight model — predictions under **1 second**  
 
 ---
 
 ## 🧑‍💻 Tech Stack
-
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
@@ -33,8 +38,9 @@ A machine learning project that detects whether a given message is 🚨  Spam or
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 </p>
 
-## 🔍 UI Preview
+---
 
+## 🎨 UI Preview
 <p align="center">
   <img src="images/ss1.png" width="45%" />
   <img src="images/ss2.png" width="45%" />
@@ -45,23 +51,35 @@ A machine learning project that detects whether a given message is 🚨  Spam or
   <img src="images/ss4.png" width="45%" />
 </p>
 
+---
 
-### Output 1
+## 📤 Prediction Outputs  
+
+### 🚨 Spam Result  
 <p align="center">
-  <img src="images/1762315909357spam.jpg" alt="Spam Prediction Output" width="80%">
+  <img src="images/1762315909357spam.jpg" width="80%" alt="Spam Prediction Output">
 </p>
 
-### Output 1
+### ✅ Ham Result  
 <p align="center">
-  <img src="images/ham.jpg" alt="Spam Prediction Output" width="80%">
+  <img src="images/ham.jpg" width="80%" alt="Ham Prediction Output">
 </p>
 
-## 🔮 Future Scope
+---
 
-# WhatsApp/Telegram Bot: Users can forward messages to the bot for real-time spam detection.
+## 🔮 Future Scope  
+<p align="center">
+  <img src="https://img.shields.io/badge/Keyword%20Highlighting-Future%20Feature-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Phishing%20URL%20Detection-Coming%20Soon-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Explainable%20AI%20(SHAP%2F LIME)-Planned-brightgreen?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Voice%20Input%20%26%20TTS-Future-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/WhatsApp%2FTelegram%20Bot-Idea-9cf?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Browser%20Extension-Idea-lightgrey?style=for-the-badge"/>
+</p>
 
-# Extension Idea: Could be extended as a browser or messaging extension for automatic scanning.
+---
 
+## 🧩 Extension Idea  
+Could be extended into a **browser extension**, **WhatsApp bot**, or **email scanner** for automatic spam detection.
 
-
-
+---
